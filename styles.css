@@ -1,0 +1,24 @@
+body {
+    background-color: #ecf1f5;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.btn-block {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 30px;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 400px;
+}
